@@ -1,8 +1,13 @@
-# mid-hud
+# mid-hud — FiveM HUD & Speedometer
 
 ![Preview](image.png)
 
-A lightweight, customizable HUD for FiveM (ESX / QBCore / ox_core).
+A lightweight, customizable HUD and speedometer for FiveM servers.
+Supports ESX Legacy, QBCore, and ox_core frameworks.
+Features animated status rings, real-time speedometer with RPM and fuel gauge,
+location panel, voice indicator, and cinematic mode.
+
+> Free, open-source FiveM HUD resource with auto-detection for all major frameworks and fuel/voice systems.
 
 ## Features
 
